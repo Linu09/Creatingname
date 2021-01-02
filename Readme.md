@@ -9,7 +9,11 @@ Welcome to the  Name Generator.
 
 
 What's name of the city you grew up in?
+
 Bhilai
+
 What's your pet's name?
+
 Bruno
+
 Your band name could be Bhilai Bruno
