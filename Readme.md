@@ -3,7 +3,7 @@ when you are stuck of thinking about a name :)
 
 
 OutPut of main.py
-
+***************************************************
 
 Welcome to the  Name Generator.
 
@@ -17,3 +17,5 @@ What's your pet's name?
 Bruno
 
 Your band name could be Bhilai Bruno
+
+****************************************************
