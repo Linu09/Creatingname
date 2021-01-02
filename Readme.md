@@ -5,7 +5,7 @@ when you are stuck of thinking about a name :)
 OutPut of main.py
 ***************************************************
 
-Welcome to the  Name Generator.
+Welcome to the  Random Name Generator.
 
 
 What's name of the city you grew up in?
@@ -16,6 +16,6 @@ What's your pet's name?
 
 Bruno
 
-Your  name could be Bhilai Bruno
+Your Random name could be Bhilai Bruno
 
 ****************************************************
