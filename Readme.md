@@ -16,6 +16,6 @@ What's your pet's name?
 
 Bruno
 
-Your band name could be Bhilai Bruno
+Your  name could be Bhilai Bruno
 
 ****************************************************
